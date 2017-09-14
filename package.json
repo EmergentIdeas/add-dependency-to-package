@@ -1,0 +1,22 @@
+{
+  "name": "add-dependency-to-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "add-dependency-to-package": "./index.js"
+  },
+  "author": "Dan Kolz",
+  "license": "ISC",
+  "dependencies": {
+    "console-in-transformer": "^1.0.2",
+    "minimist": "^1.2.0"
+  },
+"repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/EmergentIdeas/add-dependency-to-package.git"
+  }
+}
